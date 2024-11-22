@@ -38,3 +38,5 @@ O código faz uso de vetorização TF-IDF para transformar o texto das notícias
 A regressão logística foi escolhida por sua simplicidade e eficácia em problemas de classificação binária.
 O projeto permite a visualização gráfica dos resultados usando uma matriz de confusão e também apresenta um relatório detalhado sobre a performance do modelo.
 
+![image](https://github.com/user-attachments/assets/52ccf185-5206-442c-8d29-de5a3089d4b8)
+
